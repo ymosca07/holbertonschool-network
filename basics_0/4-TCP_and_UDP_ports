@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# Description
+# Displays all listening TCP and UDP ports with the program name
 
 sudo netstat -tulnp | grep LISTEN
