@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Description
+
+sudo netstat -tulnp | grep LISTEN
