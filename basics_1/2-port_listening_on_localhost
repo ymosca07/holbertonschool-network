@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Modifie le fichier /etc/host
+
+nc -l 127.0.0.2 98
